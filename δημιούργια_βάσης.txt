@@ -1,0 +1,8 @@
+#Create db and user
+mysql -u root -p
+create database if not exists eshop;
+create user if not exists "eshop-app"@"localhost"
+     identified by "eshop-app";
+grant all
+     on eshop.*
+     to "eshop-app"@localhost;

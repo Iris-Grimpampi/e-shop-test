@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-10-21T23:01:24.521988500Z</date>
+  <millis>1729551684521</millis>
+  <nanos>988500</nanos>
+  <sequence>0</sequence>
+  <logger>eshopask.EShopAsk</logger>
+  <level>INFO</level>
+  <class>eshopask.EShopAsk</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Connecting database ...</message>
+</record>
+<record>
+  <date>2024-10-21T23:01:24.589826400Z</date>
+  <millis>1729551684589</millis>
+  <nanos>826400</nanos>
+  <sequence>1</sequence>
+  <logger>eshopask.EShopAsk</logger>
+  <level>INFO</level>
+  <class>eshopask.EShopAsk</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Driver loaded!</message>
+</record>
+<record>
+  <date>2024-10-21T23:01:24.853201500Z</date>
+  <millis>1729551684853</millis>
+  <nanos>201500</nanos>
+  <sequence>2</sequence>
+  <logger>eshopask.EShopAsk</logger>
+  <level>INFO</level>
+  <class>eshopask.EShopAsk</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Database connected!</message>
+</record>
+<record>
+  <date>2024-10-21T23:01:24.898771200Z</date>
+  <millis>1729551684898</millis>
+  <nanos>771200</nanos>
+  <sequence>3</sequence>
+  <logger>eshopask.EShopAsk</logger>
+  <level>INFO</level>
+  <class>eshopask.EShopAsk</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>eshop</message>
+</record>
+<record>
+  <date>2024-10-21T23:01:24.899635400Z</date>
+  <millis>1729551684899</millis>
+  <nanos>635400</nanos>
+  <sequence>4</sequence>
+  <logger>eshopask.EShopAsk</logger>
+  <level>INFO</level>
+  <class>eshopask.EShopAsk</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>information_schema</message>
+</record>
+<record>
+  <date>2024-10-21T23:01:24.900514100Z</date>
+  <millis>1729551684900</millis>
+  <nanos>514100</nanos>
+  <sequence>5</sequence>
+  <logger>eshopask.EShopAsk</logger>
+  <level>INFO</level>
+  <class>eshopask.EShopAsk</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>test</message>
+</record>
+</log>
